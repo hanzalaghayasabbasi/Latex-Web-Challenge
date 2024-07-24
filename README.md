@@ -132,5 +132,3 @@ We can also run a Python script to verify that we have successfully obtained the
 
 ## Flag
 TRUSTLINE{YoU_HavE_SoLvED_LaTeX_HarD_ChAlleNGE_WeLl_DOne_Xd}
-
-
